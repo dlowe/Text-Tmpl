@@ -290,7 +290,7 @@ Hopefully none.
 
 =head1 AUTHOR
 
-J. David Lowe, dlowe@saturn5.com
+J. David Lowe, j.david.lowe@gmail.com
 
 =head1 SEE ALSO
 
